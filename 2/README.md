@@ -1,9 +1,18 @@
 # 2
 
-5 sided equilateral polygon next to two vertical rectangles that spell 511 in a symbol language.
+5 sided equilateral polygon next to two vertical rectangles that spell 511 in symbol language. Two directions, **A** with a solid polygon the **B** with one made from lines.
 
+### 2A
+
+![](https://rawgithub.com/jwdallas/phiveleven.identity/master/2/phiveleven_2A.svg)
+
+### 2B
+
+![](https://rawgithub.com/jwdallas/phiveleven.identity/master/2/phiveleven_2B.svg)
+
+======
 * Evokes building blocks, logic symbols, early computer UI on/off, circuit diagrams.
 * Provokes consideration of semiotics.
 * Easy to read at glance or large distance.
-* Futuristic; type has become much more streamlined in recent centuries, projecting that further we may eventually communicate with basic geometric shapes.
+* Considering direction of type design over recent centuries we may eventually communicate with basic geometric shapes.
 * Reminds me of Tron UI.
