@@ -1,8 +1,14 @@
 # 1
 
-This is an evened out trace of Brito's whiteboard sketch.
+This is an computer evened trace of Brito's whiteboard sketch.
 
-* Has a cool idea behind it.
+![](https://rawgithub.com/jwdallas/phiveleven.identity/master/1/phiveleven_1.svg)
 
-### Issues
+======
+* Does a clever job of communicating company name
 * Negative spaces are odd and distracting.
+
+
+### Whiteboard sketch
+
+![](https://rawgithub.com/jwdallas/phiveleven.identity/master/1/whiteboard.jpg)
