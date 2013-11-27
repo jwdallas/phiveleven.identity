@@ -1,5 +1,4 @@
 # Phiveleven Identity
-A visual identity for Phiveleven.
 
 ### Goals
 
