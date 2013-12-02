@@ -8,5 +8,5 @@ This is a reworking of [#2](https://github.com/jwdallas/phiveleven.identity/tree
 
 ### Ratios
 
-* The ratio widths between the 5 and the space the 11 is horizontaly centered in == ϕ.
+* The ratio of widths between the 5 and the space the 11 is horizontaly centered in == ϕ.
 * 2x thickness of either the lines in the 5 or one of the 11's == the larger part of a golden rectangle.
