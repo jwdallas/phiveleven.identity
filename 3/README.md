@@ -9,4 +9,4 @@ This is a reworking of [#2](https://github.com/jwdallas/phiveleven.identity/tree
 ### Ratios
 
 * The ratio widths between the 5 and the space the 11 is horizontaly centered in == ϕ.
-* Twice thickness of the 5 and 11 == the larger part of a golden rectangle.
+* 2x thickness of either the lines in the 5 or one of the 11's == the larger part of a golden rectangle.
