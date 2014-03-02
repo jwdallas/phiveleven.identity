@@ -5,4 +5,4 @@
 ======
 
 * Eleven pentagons.
-* Each consecutive pentagon is ϕ*10 smaller and rotated by ϕ*10 relative to the one before.
+* Each consecutive pentagon is ϕ * 10 smaller and rotated by ϕ * 10 relative to the one before.
