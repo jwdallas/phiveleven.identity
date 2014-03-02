@@ -14,17 +14,4 @@
 			l33.589,103.606h108.943l33.662-103.606L88.257,0.202L88.257,0.202z"/>
 	</g>
 </g>
-<g id="ratios" display="none">
-	<g display="inline">
-		
-			<rect x="0.162" y="0.162" fill="none" stroke="#FF0000" stroke-width="0.3233" stroke-miterlimit="10" width="176.188" height="176.201"/>
-		
-			<rect x="176.35" y="0.162" fill="none" stroke="#FF0000" stroke-width="0.3233" stroke-miterlimit="10" width="108.9" height="176.201"/>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 194.4946 28.334)" display="inline" fill="#D44537" font-family="'MinionPro-Capt'" font-size="12">1/2 ϕ</text>
-	<text transform="matrix(1 0 0 1 76.4946 28.334)" display="inline" fill="#D44537" font-family="'MinionPro-Capt'" font-size="12">1/2 ϕ</text>
-	
-		<text transform="matrix(1 0 0 1 242.4946 28.334)" display="inline" fill="#D44537" font-family="'MinionPro-Capt'" font-size="12">1/2 ϕ</text>
-</g>
 </svg>
